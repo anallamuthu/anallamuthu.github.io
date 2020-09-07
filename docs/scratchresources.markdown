@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Scratch Programming Resources"
-permalink: /scratch/resources/
+permalink: /resources/
 ---
 
 
