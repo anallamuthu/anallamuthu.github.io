@@ -4,8 +4,8 @@ title: "Scratch Programming Resources"
 permalink: /scratch/resources/
 ---
 
-
-* Scratch programming [website](https://scratch.mit.edu)
-* Udemy [course](https://www.udemy.com/share/101XAuAkITc11RQnw=/) on Scratch by Al Sweigart
-* (Free) Online book on [Scratch](http://inventwithscratch.com) by Al Sweigart
+#Useful links
+* [Scratch programming website](https://scratch.mit.edu)
+* [Udemy course on Scratch by Al Sweigart](https://www.udemy.com/share/101XAuAkITc11RQnw=/)
+* [(Free) Online book on Scratch by Al Sweigart](http://inventwithscratch.com)
 
