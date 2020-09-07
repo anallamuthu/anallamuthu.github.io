@@ -1,6 +1,6 @@
 layout: page
 title: "Scratch Programming Resources"
-permalink: /scratch/resources/
+permalink: /scratch/resources2/
 
 
 <a href="https://scratch.mit.edu">Scratch MIT website</a>
