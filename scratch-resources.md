@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Scratch Programming Resources"
 permalink: /scratch/resources/
 ---
