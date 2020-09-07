@@ -4,6 +4,7 @@ title: "Scratch Programming Resources"
 permalink: /scratch/resources/
 ---
 
+
 <a href="https://scratch.mit.edu">Scratch MIT website</a>
 <br>
 <a href="https://www.udemy.com/share/101XAuAkITc11RQnw=/">Scratch tutorials by Al Sweigart on Udemy.com</a>
