@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Scratch Programming Resources"
+prefetch: "https://github.com/penibelst/jekyll-compress-html"
 permalink: /scratch/resources/
 ---
 
